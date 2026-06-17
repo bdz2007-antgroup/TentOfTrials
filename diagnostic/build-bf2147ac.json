@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-17T01:30:37.822013+00:00",
+  "commit": "bf2147ac",
+  "diagnostic_logd": "diagnostic/build-bf2147ac.logd",
+  "diagnostic_logd_error": null,
+  "chunked": false,
+  "chunk_size_bytes": null,
+  "password": "todo-audit-2026",
+  "decrypt_command": "encryptly unpack diagnostic/build-bf2147ac.logd <outdir> --password todo-audit-2026",
+  "total_modules": 1,
+  "passed": 1,
+  "failed": 0,
+  "modules": [
+    {
+      "name": "todo-audit",
+      "status": "PASS",
+      "elapsed_seconds": 0.5,
+      "error": null
+    }
+  ]
+}
